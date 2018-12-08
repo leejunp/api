@@ -87,7 +87,7 @@ img{
   width: 25vw;
   display: inline-block;
   height: 20vw;
-  margin-right: 1.2vw;
+  margin-right: 1vw;
   box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.1);
   overflow: hidden;
   border-radius: 25px;
@@ -120,7 +120,7 @@ button{
   background-repeat: no-repeat;
   background-position: center;
   right: 8vw;
-  top:45vw;
+  top:36vw;
   z-index: 100;
   box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.2);
 }

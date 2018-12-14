@@ -115,7 +115,7 @@ button{
   width: 5vw;
   border-radius: 50%;
   border:none;
-  background-image:url("assets/Cart.png");
+  background-image:url("assets/cart.png");
   background-size:60%;
   background-repeat: no-repeat;
   background-position: center;
@@ -207,7 +207,7 @@ button{
     border-radius: 50%;
     border:none;
     background-color: white;
-    background-image:url("assets/Cart.png");
+    background-image:url("assets/cart.png");
     background-size:60%;
     background-repeat: no-repeat;
     background-position: center;
